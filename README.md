@@ -31,16 +31,6 @@ The training focused on the following cutting-edge technologies:
 
 These technologies are essential for modern software development, data science, and enterprise applications.
 
----
-
-## 🖼 Certificate
-
-![Emerging Technologies Certificate](certificate.png)
-
-> This certificate validates my participation and successful completion of the training program.
-
----
-
 ## 🚀 Key Outcomes
 
 - Practical exposure to emerging technologies  
